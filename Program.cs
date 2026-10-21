@@ -1,4 +1,4 @@
-namespace DownloadSimulator
+namespace PSP_E1_Ariketa_8_Download_Simulator
 {
     internal static class Program
     {
